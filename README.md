@@ -4,6 +4,8 @@ HTML &amp; HTML5 Brush Up
 <!--WHAT I LEARNED
     HTML & HTML5
       - <h1> Headings
+      - <head> define heading of page
+      - <body> define body of page
       - <main> to let search engines determine most important body of content for indexing
       - <p> creating paragraphs
       - a href link building
